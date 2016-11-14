@@ -1,0 +1,32 @@
+body {
+	margin:0px;
+	background-color:#003D79;
+	font-family: "微軟正黑體";
+}
+#wrapper{
+	width: 60%;
+	margin:0 auto;
+	border: 5px solid #FFFFFF;
+}
+#header{
+	background-color: #005AB5;
+	padding: 20px;
+}
+#header h2{
+	color: #FFFFFF;
+}
+#content{
+	background-color: #97CBFF;
+	padding: 20px;
+}
+#content p{
+	color:#3C3C3C;
+}
+#content h3{
+	color:#037589;
+}
+#footer{
+	background-color: #005AB5;
+	padding: 20px;
+	color:#FFFFFF;
+}
